@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400&display=swap');
+/*
+font-family: 'Lato', sans-serif;
+*/
+
+body{
+    background-image: url("../srce.jpg");
+    background-size: cover;
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+}
+
+img{
+    border-radius: 5px;
+    opacity: 1;
+    max-width: 100%;
+    height: 65vh;
+}
+
+.photo-container{
+    max-width: 90%;
+    padding: 25px 15px;
+    text-align: center;
+    margin: auto;
+}
+
+.text-div{
+    background-color: white;
+    margin: 20px 0;
+    padding: 20px 10px;
+    border-radius: 5px;
+    box-shadow: 1px 1px 15px #00000017;
+}
